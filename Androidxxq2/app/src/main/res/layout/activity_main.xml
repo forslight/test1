@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     tools:context=".MainActivity"
-    android:background= "@color/Background">
+    android:background= "#00000000">
 
     <ImageView
         android:id="@+id/iv_icon"
@@ -36,6 +36,7 @@
         android:text="查看榜单" />
 
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerview"
         android:layout_width="match_parent"
         android:layout_height="652dp"
         android:layout_below="@+id/iv_icon"

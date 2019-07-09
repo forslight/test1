@@ -7,5 +7,5 @@
     <color name= "ValueFront">#e6face15</color>
     <color name= "ValueBehind">#99ffffff</color>
     <color name="Title">#e6ffffff</color>
-    <color name="Hot">#7fffffff</color>
+    <color name="Hot">#ffffff</color>
 </resources>
