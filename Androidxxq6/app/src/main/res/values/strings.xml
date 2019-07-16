@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTodoList</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_debug">Debug</string>
+    <string name="add_a_note">New Note</string>
+    <string name="Path_Print">Print Absolute Path</string>
+    <string name="Request_stroage_permission">REQUEST STORAGE PERMISSION</string>
+    <string name="writeFile">Write to Files</string>
+</resources>
